@@ -76,7 +76,7 @@ Origin of Planet Project
 
 Origin of Planet Project 星源项目
 群内有更多关于本项目的信息
-群内有供测试的测试包
+包括供测试的测试包
 
 QQ群：721661778
 我的QQ：709085050
