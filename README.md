@@ -1,30 +1,41 @@
-# Origin-of-Planet
-A modpack aim to Gregfy and Terrafirmafy the world
 
-
-
-Origin of Planet Project，中文译名星源项目，于2018年2月份由Fuyang发起，属于团体制作，目的是创造一个前所未有的结合原始生存，现代化科技发展的modpack。其次也是想推动国内整合包的发展，现在，mcbbs各个板块的活跃指数都在日益提高，作品质量也不断提升，但整合包板块的低质量作品依旧泛滥，是时候改变一下了。
-
+Origin of Planet Project
+中文译名星源项目，于2018年2月份由Fuyang发起，属于团体制作，目的是创造一个前所未有的结合原始生存，现代化科技发展的modpack。其次也是想推动国内整合包的发展，现在，mcbbs各个板块的活跃指数都在日益提高，作品质量也不断提升，但整合包板块的低质量作品依旧泛滥，是时候改变一下了。
 
 早在两个月前，制作这个modpack的想法便已呈现萌芽状态，但因当时资料不足等原因，并未大范围散布消息。现在，因为有了更多的成员及设想，同时便需要更多的擅长各个领域的知识分子，便再次向广大群众们发出申请。
 
 现有成员包括：
 
 FuYang（创始人，Tweaker，设定师）
+
 GinYAi（程序员，设定师）
+
 中兴安岭（设定师，材质师）
+
 残存（设定师，程序员）
+
 皮皮怪/魔芋豆腐（设定师）
+
 Antifluxfield（设定师，程序员）
+
 Aquarius（设定师）
+
 Nethop/电椅（剧情设定师）
+
 Freak（设定师）
+
 a946115793（设定师）
+
 星辰（程序员）
+
 冷风/DYColdWind（设定师）
+
 qrrtw（Tweaker）
+
 HaxsaurusBob（设定师）
+
 糖果雨（Tweaker）
+
 ENTERMAN（设定师）
 
 注：红色字体意为现主要活跃成员
