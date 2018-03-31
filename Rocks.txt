@@ -1,0 +1,34 @@
+
+
+
+Sedimentary															
+															
+                <Replaces block='terrafirmacraft:StoneSed:6'/><!-- Chert -->
+                <Replaces block='terrafirmacraft:StoneSed:7'/><!-- Chalk -->
+                <Replaces block='terrafirmacraft:StoneSed:1'/><!-- Claystone -->
+                <Replaces block='terrafirmacraft:StoneSed:2'/><!-- Rock salt -->
+                <Replaces block='terrafirmacraft:StoneSed:3'/><!-- Limestone -->
+                <Replaces block='terrafirmacraft:StoneSed:4'/><!-- Conglomerate -->
+                <Replaces block='terrafirmacraft:StoneSed'/><!-- Shale -->
+                <Replaces block='terrafirmacraft:StoneSed:5'/><!-- Dolomite -->
+Metamorphic											
+											
+                <Replaces block='terrafirmacraft:StoneMM:4'/><!-- Gneiss -->
+                <Replaces block='terrafirmacraft:StoneMM:5'/><!-- Marble -->		
+                <Replaces block='terrafirmacraft:StoneMM'/><!-- Quartzite -->
+                <Replaces block='terrafirmacraft:StoneMM:1'/><!-- Slate -->
+                <Replaces block='terrafirmacraft:StoneMM:3'/><!-- Schist -->
+Igneous Extrusive											
+114
+                <Replaces block='terrafirmacraft:StoneIgEx'/><!-- Rhyalite -->
+                <Replaces block='terrafirmacraft:StoneIgEx:1'/><!-- Basalt -->
+                <Replaces block='terrafirmacraft:StoneIgEx:2'/><!-- Andesite -->
+                <Replaces block='terrafirmacraft:StoneIgEx:3'/><!-- Dacite -->		
+Igneous Intrusive					
+59
+                <Replaces block='terrafirmacraft:StoneIgIn'/><!-- Granite -->
+                <Replaces block='terrafirmacraft:StoneIgIn:1'/><!-- Diorite -->
+                <Replaces block='terrafirmacraft:StoneIgIn:2'/><!-- Gabbro -->
+
+
+
