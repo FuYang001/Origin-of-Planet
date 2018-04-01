@@ -76,6 +76,10 @@ Origin of Planet Project
 -
 既然要添加很多机械及材料，材质当然也是必不可少的，我们决定以16X16及32*32分辨率为基准来制作材质，风格类似unity和ZT（Zederrian Technology），欢迎了解该方面的人才加入。
 
+4.测试员
+-
+毕竟是游戏，游戏体验也不能忽略，要求是精通TFC GT5U及其它整合包内大量模组，模组列表在仓库中可找到。
+
 Origin of Planet Project 星源项目
 群内有更多关于本项目的信息
 包括供测试的测试包
