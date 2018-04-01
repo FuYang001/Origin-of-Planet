@@ -1,0 +1,267 @@
+Minecraft Coder Pack
+Forge Mod Loader
+Minecraft Forge
+TFC[coremod]
+Advanced Rocketry
+Applied Energistics 2 Core
+CodeChicken Core
+CosmicCore
+Hard Mode Tweaks Core
+InputFix
+ItemPhysic
+IvToolkit
+Not Enough Items
+Night Vision Fix
+Omni Ocular Core
+Choco Patcher
+CoFH ASM
+MagnetiCraft Patcher
+GT++ Preloader
+FastCraft
+TerraFirmaCraft
+TFC-Tweaks
+Instant Massive Structures Mod
+Leather Water Sac
+bspkrsCore
+StartingInventory
+StatusEffectHUD
+TFC Wells
+AutomatedBellowsAddon
+CellarsAddon
+Waila
+TFC Crop Index
+TFC Scales
+CoFH Core
+BuildCraft
+BC Builders
+BC Energy
+BC Factory
+BC Robotics
+BC Silicon
+BC Transport
+IndustrialCraft 2
+Forestry for Minecraft
+BuildCraft Compat
+Avaritia
+Railcraft
+Immersive Engineering
+Shurgent's TFCTech Addon
+Particle Accelerator
+Accidentally Circumstantial Events
+libVulpes
+Advanced Rocketry
+Advanced Solar Panels
+Adventure Backpack
+Applied Energistics 2
+BD Lib
+AE2 Stuff
+AFSU Mod
+AgriCraft
+YAMCore
+AngerMod - Angry neutral mobs
+Antique Atlas
+AppleCore
+Armourer's Workshop
+asielib
+WanionLib
+Avaritiaddons
+Backpack
+Better Achievements
+Better Questing
+Bigger Crafting Tables
+Binnie Core
+Botany
+Extra Bees
+Extra Trees
+Genetics
+BiomeTweaker
+BNBGamingLib
+The Twilight Forest
+Forge Multipart
+Chisel
+Carpenter's Blocks
+Catwalks Mod
+Legacy Catwalk Compat
+Clock HUD
+CMDfiles
+Compact Kinetic Wind and Water Generators
+MineTweaker 3
+Fluxed-Core
+ContentTweaker
+Controlling
+CoroAI
+Build Mod
+CoroPets
+Extended Renderer
+Extended Mod Config
+CosmicNPCs
+Crafting Tweaks
+CreativeCore
+Custom Music Discs
+Custom Cursor Mod
+Custom Main Menu
+Custom Ore Generation
+Custom Stuff 3
+Default Keyconfig
+Dimension Guard
+Ding
+ElecCore
+Enchiridion
+Enchiridion 2
+EnderCore
+Ender IO
+EnderStorage
+Enhanced LootBags
+Enhanced Visuals
+Universal Singularities
+Eternal Singularity
+Extra Cells 2
+Baubles
+Extra Utilities
+ExtraUtilitiesTweaks
+Super Solar Panel
+GT: New Horizons
+Pam's HarvestCraft
+Foundry
+Flaxbeard's Steam Power
+FTBLib
+FTB Tweaks
+FTBUtilities
+Gravestones
+Graviation Suite
+GraviSuiteReloaded
+GT Scanner Mod
+IHL Tools & Machines for IC2V2
+Magic Bees
+PneumaticCraft
+Simply Jetpacks
+TecTech
+GT++
+GT++ Toxic Everglades
+GTTweaker
+Guide-API
+Hardcore Darkness
+HardcoreMapReset
+Hard Mode Tweaks
+HoloInventory
+IC2 Nei Plugin
+Nuclear Control 2
+iChunUtil
+Immersive Integration
+IncreaseMobs
+InGameConfigManager
+INpureCore
+Inventory Tweaks
+Iron Chest
+It's the little things
+JABBA
+JourneyMap
+Just What I Needed Mod
+Larger Workbenches
+LaunchGUI
+LLibrary
+Lore Expansion
+MalisisCore
+Malisis' Doors
+Mantle
+Mod Lister
+Mod Tweaker 2
+Morpheus
+Mouse Tweaks
+MPUtils
+ModPack Basic Tools
+MTUtils
+Multi World
+Music Choices
+Mystcraft
+Neat
+NEI Addons
+NEI Addons: Developer Tools
+NEI Addons: Applied Energistics 2
+NEI Addons: Botany
+NEI Addons: Forestry
+NEI Addons: Crafting Tables
+NEI Addons: Ex Nihilo
+NEI Integration
+Networks Manager
+No Mob Spawning on Trees
+NoMoreRecipeConflict
+NotEnoughIDs
+Not Enough Resources
+NotEnoughThaumcraftTabs
+Omni Ocular
+Open Modular Turrets
+test
+p455w0rd's Library
+Pam's Harvest the Nether
+Pam's BoneCraft
+Pam's DesertCraft
+Pam's Mob Drop Crops
+Perfect Spawn
+Power Converters
+SonarCore
+Practical Logistics
+Pressure Pipes
+Project Blue
+MrTJPCore
+ProjectRed Core
+ProjectRed Transmission
+ProjectRed Transportation
+ProjectRed Exploration
+ProjectRed Compatibility
+ProjectRed Integration
+ProjectRed Fabrication
+ProjectRed Illumination
+ProjectRed Expansion
+Better Questing Quest Book
+Railcraft Cosmetic Additions
+ReAuth
+Remote IO
+Resource Loader
+Roguelike Dungeons
+Ruins Spawning System
+Sampling Performance Profiler
+Greg's SG Craft
+Shoulder Surfing
+Simple Achievements
+Sleeping Bag
+Solar Flux
+Sound Filters
+Special Mobs
+The Spice of Life
+Standard Expansion
+Statues
+StepUp
+Steve's Factory Manager
+Steve's Addons
+Steve's Carts 2
+Storage Drawers
+Taam
+TFC Metal Index
+TFC Pewter
+TFC Engineer
+TFC Railcraft Compatibility
+TFC Tweaker
+TooMuchLoot
+Triumph
+UnicodeFontFixer
+Utility Worlds
+VisibleRayGenerator
+Waila Harvestability
+Water Hooks
+WaterPower
+What Are We Looking At
+AE2 Wireless Crafting Terminal
+WR-CBE Core
+WR-CBE Addons
+WR-CBE Logic
+Zetta Industries
+Ztones
+Minecraft Multipart Plugin
+ForgeRelocation
+MCFrames
+RelocationFMP
+Hunger Overhaul
+UniDict
+Forge Microblocks
+GregTech
