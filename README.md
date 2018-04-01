@@ -80,6 +80,7 @@ Origin of Planet Project
 -
 毕竟是游戏，游戏体验也不能忽略，要求是精通TFC GT5U及其它整合包内大量模组，模组列表在仓库中可找到。
 
+---
 Origin of Planet Project 星源项目
 群内有更多关于本项目的信息
 包括供测试的测试包
