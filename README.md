@@ -33,22 +33,38 @@ Origin of Planet Project
 * ENTERMAN（设定师）
 
 （Now we have these people work together：
-*FuYang：Founder，Tweaker and Designer
-*GinYai：Programmer，Designer
-*Middle Mount Xingan：Designer，Painter
-*Rester：Designer，Programmer
-*PP Monster：Designer
-*Antifluxfield：Designer，Programmer
-*Aquarius：Designer
-*Nethop：Story Designer
-*Freak：Designer
-*A946115793：Designer
-*Starlight：Programmer
-*DYColdWind：Designer
-*qrrtw：Tweaker
-*HaxsaurusBob：Designer
-*Candyrain：Tweaker
-*ENTERMAN：Designer）
+
+FuYang：Founder，Tweaker and Designer
+
+GinYai：Programmer，Designer
+
+Middle Mount Xingan：Designer，Painter
+
+Rester：Designer，Programmer
+
+PP Monster：Designer
+
+Antifluxfield：Designer，Programmer
+
+Aquarius：Designer
+
+Nethop：Story Designer
+
+Freak：Designer
+
+A946115793：Designer
+
+Starlight：Programmer
+
+DYColdWind：Designer
+
+qrrtw：Tweaker
+
+HaxsaurusBob：Designer
+
+Candyrain：Tweaker
+
+ENTERMAN：Designer）
 
 若想加入本项目，请保证您拥有高中文凭/处于高中生在读状态，注意，这并非歧视，只是我们需要的不仅仅是单纯的脑洞，更多的是现代各个领域知识及良好素质修养，并对应该项目的目的。
 
