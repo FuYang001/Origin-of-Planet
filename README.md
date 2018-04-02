@@ -33,22 +33,22 @@ Origin of Planet Project
 * ENTERMAN（设定师）
 
 （Now we have these people work together：
-FuYang：Founder，Tweaker and Designer
-GinYai：Programmer，Designer
-Middle Mount Xingan：Designer，Painter
-Rester：Designer，Programmer
-PP Monster：Designer
-Antifluxfield：Designer，Programmer
-Aquarius：Designer
-Nethop：Story Designer
-Freak：Designer
-A946115793：Designer
-Starlight：Programmer
-DYColdWind：Designer
-qrrtw：Tweaker
-HaxsaurusBob：Designer
-Candyrain：Tweaker
-ENTERMAN：Designer）
+*FuYang：Founder，Tweaker and Designer
+*GinYai：Programmer，Designer
+*Middle Mount Xingan：Designer，Painter
+*Rester：Designer，Programmer
+*PP Monster：Designer
+*Antifluxfield：Designer，Programmer
+*Aquarius：Designer
+*Nethop：Story Designer
+*Freak：Designer
+*A946115793：Designer
+*Starlight：Programmer
+*DYColdWind：Designer
+*qrrtw：Tweaker
+*HaxsaurusBob：Designer
+*Candyrain：Tweaker
+*ENTERMAN：Designer）
 
 若想加入本项目，请保证您拥有高中文凭/处于高中生在读状态，注意，这并非歧视，只是我们需要的不仅仅是单纯的脑洞，更多的是现代各个领域知识及良好素质修养，并对应该项目的目的。
 
@@ -68,6 +68,7 @@ ENTERMAN：Designer）
 我们决定对GT及其它模组的电路系统及机械构成进行更加科学化的改变，这将涉及到有关电子电路，电路构成，电子元件及其它相关知识，欢迎了解该方面的人才加入。
 
 （1.Electronic and Electricity
+
 We decide to change electricity and electronic system in GT and other mods，it needs knowledge of electronic component and circuit，and structure of circuit，if you are good at this，come us.）
 
 2.机械工程
@@ -75,6 +76,7 @@ We decide to change electricity and electronic system in GT and other mods，it 
 我们决定对GT及其它模组的机械制造及生产流程进行更科学化的改变，这将涉及到机械设计，机械制造及其它相关知识，欢迎了解该方面的人才加入。
 
 （2.Mechanical Engineering
+
 We decide to change production of these mods' machines，it needs knowledge of mechanical design，mechanical manufacturing and so on.）
 
 3.材料化学
@@ -82,6 +84,7 @@ We decide to change production of these mods' machines，it needs knowledge of m
 我们决定对GT及其它模组的的材料制造及生产流程进行更科学化的改变，这将涉及到材料制备，材料加工及其它相关知识，欢迎了解该方面的人才加入。
 
 （3.Materials Chemistry
+
 We decide to change production of these mods'materials，it needs knowledge of material preparation，material procession and so on.）
 
 4.航空航天
@@ -89,6 +92,7 @@ We decide to change production of these mods'materials，it needs knowledge of m
 我们决定对AR及其它模组的火箭构成及宇宙探索进行更科学化的改变，这将涉及到火箭构成，火箭发动机及其它相关知识，欢迎了解该方面的人才加入。
 
 （4.Space Technology
+
 We decide to change rocket structure and space trip in Advanced Rocketry and other mods，it needs assemble of rockets，rocket engine and so on.）
 
 5.能源矿业
@@ -96,6 +100,7 @@ We decide to change rocket structure and space trip in Advanced Rocketry and oth
 我们决定对GT及其它模组的能源生产及矿物处理进行更科学化的改变，这将涉及到内燃机，石油炼制及其它相关知识，欢迎了解该方面的人才加入。
 
 （5.Energy and Mine
+
 We decide to design new energy source and ore procession for GT and so on and let it more scientific，it needs knowledge of gas and diesel engine，and oil refining.）
 
 6.地理科学
@@ -103,6 +108,7 @@ We decide to design new energy source and ore procession for GT and so on and le
 我们决定对GT及其它模组的矿物生成以及岩石种类进行更科学化的改变，这将涉及到矿物学，地质学及其它相关知识，欢迎了解该方面的人才加入。
 
 （6.Geography
+
 We need change ore generation for these mods like real Eearth，it needs knowledge of mineralogy，geology and so on.）
 当然，单单拥有想法是远远不够的，我们还需要实行这些想法的人才们。
 
