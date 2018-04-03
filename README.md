@@ -133,7 +133,7 @@ We need change ore generation for these mods like real Eearth，it needs knowled
 -
 既然要添加很多机械及材料，材质当然也是必不可少的，我们决定以16X16及32*32分辨率为基准来制作材质，风格类似unity和ZT（Zederrian Technology），欢迎了解该方面的人才加入。
 
-（We also need painter to make textures for our machines，and textures should be 16*16 and 32*32，looks like unity or Zederrian Technology.）
+（We also need painter to make textures for our machines，and textures should be 16* 16 and 32* 32，looks like unity or Zederrian Technology.）
 
 4.建筑师
 -
