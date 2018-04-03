@@ -112,10 +112,11 @@ We decide to design new energy source and ore procession for GT and so on and le
 （6.Geography
 
 We need change ore generation for these mods like real Eearth，it needs knowledge of mineralogy，geology and so on.）
-当然，单单拥有想法是远远不够的，我们还需要实行这些想法的人才们。
 
-（Of course，only knowledge isn't enough，we need people who can realise these opinions.）
+当然，单单拥有想法是远远不够的，我们还需要实行这些想法的人才们。
 =
+（Of course，only knowledge isn't enough，we need people who can realise these opinions.）
+
 1.程序员
 -
 想法想要实现，自然要经过程序员之手，以后我们会需要添加很多大型多方块结构，nbt数据，数据修改及其它特性，加入后我会给大家一些源码参考，欢迎了解该方面的人才加入。
