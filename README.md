@@ -22,8 +22,14 @@ Origin of Planet Project
 * 残存（设定师，程序员）
 * 皮皮怪/魔芋豆腐（设定师）
 * Antifluxfield（设定师，程序员）
+* YoungGT（设定师）
 * Aquarius（设定师）
 * Nethop/电椅（剧情设定师）
+* 小明（程序员）
+* Naive（设定师）
+* 教父（设定师）
+* Tanimodori（设定师）
+* 烟台（设定师）
 * Freak（设定师）
 * a946115793（设定师）
 * 星辰（程序员）
@@ -38,7 +44,7 @@ Origin of Planet Project
 * FuYang：Founder，Tweaker and Designer
 * GinYai：Programmer，Designer
 * HGLMiddle：Designer，Painter
-* Rester：Designer，Programmer
+* Lycc193：Designer，Programmer
 * Obstreperous：Designer
 * Antispacetime：Designer，Programmer
 * Aquarius：Designer
