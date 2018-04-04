@@ -26,6 +26,7 @@ Origin of Planet Project
 * Aquarius（设定师）
 * Nethop/电椅（剧情设定师）
 * 小明（程序员）
+* Naive（设定师）
 * 教父（设定师）
 * Tanimodori（设定师）
 * 烟台（设定师）
