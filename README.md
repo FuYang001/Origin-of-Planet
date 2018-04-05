@@ -1,14 +1,14 @@
 ![](https://s1.ax1x.com/2018/03/31/9xYrGV.png)  
 注：图片为TecTech Multiblocks
 
-（The picture is a multiblock structure in Tectech.）
+（The picture is a multiblock structure from Tectech.）
 
 Origin of Planet Project
 ==
 
 中文译名星源项目，于2018年2月份由Fuyang发起，属于团体制作，目的是创造一个前所未有的结合原始生存，现代化科技发展的modpack。其次也是想推动国内整合包的发展，现在，mcbbs各个板块的活跃指数都在日益提高，作品质量也不断提升，但整合包板块的低质量作品依旧泛滥，是时候改变一下了。
 
-（We call it “Origin of Planet”，it was built by Fuyang in 2018.2，made as a team。Its aim is making a great modpack with tech from original ages like an ape to future such as warp among stars！Now there are too many small or easy kitchen-sink packs in the network，we want to bring more change to the community of MC.）
+（Origin of Planet Project was built by Fuyang in 2018.2，made as a team。Its aim is making a great modpack with tech from original ages like an ape to future such as warp among stars！Now there are too many small or easy kitchen-sink packs in the network，we want to bring more change to the community of MC.）
 
 早在两个月前，制作这个modpack的想法便已呈现萌芽状态，但因当时资料不足等原因，并未大范围散布消息。现在，因为有了更多的成员及设想，同时便需要更多的擅长各个领域的知识分子，便再次向广大群众们发出申请。
 
@@ -127,7 +127,7 @@ We need change ore generation for these mods like real Eearth，it needs knowled
 -
 想法想要实现，自然要经过程序员之手，以后我们会需要添加很多大型多方块结构，nbt数据，数据修改及其它特性，加入后我会给大家一些源码参考，欢迎了解该方面的人才加入。
 
-（We probably add many big structures，Notch's Bullshit Tags and change in source code even a coremod like GTNH core，and we will give everyone who join us some source code to refer.）
+（We probably add many big structures，NBT Tags and change in source code even a coremod like GTNH core，and we will give everyone who join us some source code to refer.）
 
 2.Tweaker
 -
