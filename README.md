@@ -14,49 +14,6 @@ Origin of Planet Project
 
 （We has begun this project from 2 months ago，but we found that we need more people and articles which can help us to understand the Earth and the game better，so we invite everyone who can help us join us！）
 
-现有成员包括：
-
-* FuYang（创始人，Tweaker，设定师）
-* GinYAi（程序员，设定师）
-* 中兴安岭（设定师，材质师）
-* 残存（设定师，程序员）
-* 皮皮怪/魔芋豆腐（设定师）
-* Antifluxfield（设定师，程序员）
-* YoungGT（设定师）
-* Aquarius（设定师）
-* Nethop/电椅（剧情设定师）
-* 小明（程序员）
-* Naive（设定师）
-* 教父（设定师）
-* Tanimodori（设定师）
-* 烟台（设定师）
-* Freak（设定师）
-* a946115793（设定师）
-* 星辰（程序员）
-* 冷风/DYColdWind（设定师）
-* qrrtw（Tweaker）
-* HaxsaurusBob（设定师）
-* 糖果雨（Tweaker）
-* ENTERMAN（设定师）
-
-（Now we have these people work together：
-
-* FuYang：Founder，Tweaker and Designer
-* GinYai：Programmer，Designer
-* HGLMiddle：Designer，Painter
-* Lycc193：Designer，Programmer
-* Obstreperous：Designer
-* Antispacetime：Designer，Programmer
-* Aquarius：Designer
-* Nethop：Story Designer
-* Freak：Designer
-* A946115793：Designer
-* Starlight：Programmer
-* DYColdWind：Designer
-* qrrtw：Tweaker
-* HaxsaurusBob：Designer
-* Candyrain：Tweaker
-* ENTERMAN：Designer）
 
 若想加入本项目，请保证您拥有高中文凭/处于高中生在读状态，注意，这并非歧视，只是我们需要的不仅仅是单纯的脑洞，更多的是现代各个领域知识及良好素质修养，并对应该项目的目的。
 
